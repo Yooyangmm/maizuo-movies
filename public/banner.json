@@ -1,0 +1,19 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "imgUrl": "https://img1.baidu.com/it/u=2175861135,3247565057&fm=253&fmt=auto&app=138&f=JPEG?w=320&h=150",
+      "title": "title111"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://img0.baidu.com/it/u=1633405251,2664074580&fm=253&fmt=auto&app=138&f=JPEG?w=320&h=150",
+      "title": "title222"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://img1.baidu.com/it/u=2175861135,3247565057&fm=253&fmt=auto&app=138&f=JPEG?w=320&h=150",
+      "title": "title333"
+    }
+  ]
+}
