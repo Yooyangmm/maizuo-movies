@@ -128,7 +128,6 @@ export default {
   }
   .box {
     position: relative; // 修正滚动条的位置
-    // height: 600px;
     overflow: hidden;
   }
 </style>
